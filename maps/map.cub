@@ -1,0 +1,15 @@
+NO pics/redbrick.xpm  
+SO pics/wood.xpm    
+WE pics/colorstone.xpm    
+S pics/barrel.xpm   
+F 42,42,42 
+C 19,19,19        
+R 1500 1000
+EA pics/bluestone.xpm  
+
+           11111111
+           1001S101
+           100101
+              121
+              101
+               1
