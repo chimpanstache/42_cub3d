@@ -10,6 +10,7 @@ On your terminal, execute in the repository of your choice :
 git clone https://github.com/ehafidi/cub3d_42.git 
 cd cub3d_42
 make 
+./cub3d maps/map.cub
 ```
 ### Keys
 * WASD to move the character
