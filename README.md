@@ -1,3 +1,5 @@
+![cub3d](https://github.com/ehafidi/42_cub3d/blob/main/cub3d-recording.gif) 
+
 # Cub3d
 This program is a tribute to the [Wolfenstein 3D](https://en.wikipedia.org/wiki/Wolfenstein_3D) game.
 Basically it is a raycasting algorithm rendering a game in a window, where a player can navigate through a map.    
